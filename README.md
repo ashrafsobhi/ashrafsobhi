@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="254" src="https://i.postimg.cc/mrWsj7Cd/banner-github.jpg"  />
+</div>
+
+###
+
 <h1 align="left">Hi there, I'm Ashraf Sobhi !</h1>
 
 ###
@@ -84,7 +90,7 @@
 
 ###
 
-<h3 align="left">In addition to my work with global companies, I founded H&R Studio and R&A Studio, which offer integrated services in web development, graphic design, paid advertising, and credit card services. I also freelance on platforms such as WorkHub, Khamsat, and GitHub, which has given me the opportunity to collaborate with clients from various sectors around the world.</h3>
+<img align="right" height="200" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif?cid=790b76118to60a2a8zbff9xmj06raqrk4a4iqxwhgj807nso&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -92,10 +98,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif?cid=790b76118to60a2a8zbff9xmj06raqrk4a4iqxwhgj807nso&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<h3 align="left">I always strive to keep up with the latest technologies and explore new areas that go beyond programming and design. I aspire to expand my business, with a long-term goal of listing my company on the stock exchange by 2030. My passion for innovation and development drives me to continue providing advanced technical solutions that make a real impact in the world of technology.</h3>
 
 ###
 
-<h3 align="left">I always strive to keep up with the latest technologies and explore new areas that go beyond programming and design. I aspire to expand my business, with a long-term goal of listing my company on the stock exchange by 2030. My passion for innovation and development drives me to continue providing advanced technical solutions that make a real impact in the world of technology.</h3>
+<h3 align="left">In addition to my work with global companies, I founded H&R Studio and R&A Studio, which offer integrated services in web development, graphic design, paid advertising, and credit card services. I also freelance on platforms such as WorkHub, Khamsat, and GitHub, which has given me the opportunity to collaborate with clients from various sectors around the world.</h3>
 
 ###
